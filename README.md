@@ -8,4 +8,4 @@ Esse projeto tem depêndencia do projeto JUtil (https://github.com/DiegoSteyner/
 
 # Info 01
 
-Em ambientes Linux e Unix, deve-se atentar para a forma de execução das linhas de comando do MediaInfo bem como as dependências do MediaInfo em cada SO, essas configurações são feitas em nível de SO e para os casos onde isso não seja possível, deve-se alterar a classe PrincipalJMediaInfo.java para inclusão no classpath em runtime das dependências do MediaInfo de forma que a execução ocorra sem problemas.
+Em ambientes Linux e Unix, deve-se atentar para a forma de execução das linhas de comando do MediaInfo bem como as dependências do MediaInfo em cada SO, essas configurações são feitas em nível de SO e para os casos onde isso não seja possível, deve-se incluir no classpath as dependências do MediaInfo antes da coleta das informações de forma que a execução ocorra sem problemas.
