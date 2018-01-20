@@ -1,6 +1,6 @@
 # JMediaInfo
 
-Projeto elaborado para tradução das informações do Media Info (https://mediaarea.net/en/MediaInfo) em artefatos Java, facilitando e padronizando a coleta de informações de arquivos de vídeo para tratamentos Web e Standalone
+Projeto elaborado para tradução das informações do Media Info CLI (https://mediaarea.net/en/MediaInfo) em artefatos Java, facilitando e padronizando a coleta de informações de arquivos de vídeo para tratamentos Web e Standalone
 
 # Dependencias
 
